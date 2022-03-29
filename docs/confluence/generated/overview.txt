@@ -1,0 +1,27 @@
+h1. springboot integrate with swagger
+
+
+h2. 概览 {anchor:overview}
+API details for this demo project
+
+
+h3. 版本信息
+_版本_ : 1.0
+
+
+h3. 联系方式
+_名字_ : pluoci\\ 
+_邮箱_ : ayetony.miao@gmail.com
+
+
+h3. URI scheme
+_域名_ : localhost:8080\\ 
+_基础路径_ : /
+
+
+h3. 标签
+
+* 用户列表接口 : User Controller
+
+
+
